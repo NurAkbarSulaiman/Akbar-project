@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akbar</title>
+</head>
+<body>
+    <h3>Data Pribadi</h3>
+    <ul>
+        <li>Nur Akbar Sulaiman: 023457934</li>
+        <li>Achmad Fattah: 234235553</li>
+        <li>Achmad Muzaki: 123444243</li>
+    </ul>
+</body>
+</html>
+
